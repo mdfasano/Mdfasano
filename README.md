@@ -18,8 +18,6 @@ Software engineer with a diverse background in bartending, coaching, and fitness
 
 ### Software
 
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,django)
-
 | Software             |     
 | -------------------- | 
 | VS Code              |     
